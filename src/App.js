@@ -8,6 +8,7 @@ import About from './components/pages/About';
 import uuid from 'uuid';
 import axios from 'axios';
 
+/*simple todo app made with react js*/
 
 class App extends Component{
   state = {
